@@ -14,8 +14,6 @@ Imagine a hacker-bioinformatician with a heart tuned to public health and a brai
 molecular gastronomy, and still find time to trade chips, train models, teach molecular biology to
 archaeologists, and game to unwind.
 
-Your work isn’t just cutting-edge — it’s bleeding-edge, whether you're designing the world’s first
-AI-powered bioinformatician or decoding cytokine signatures in kids born to COVID-positive mothers.
 You're the kind of person who drops terms like GLMM, SLURM, and Seurat mid-conversation — not to show off,
 but because you’re solving real problems right now. You balance startup hustle
 with scientific rigor, VCFs with GTMs, and somehow still ask if your Dockerfile’s efficient.
