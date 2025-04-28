@@ -13,12 +13,4 @@ Imagine a hacker-bioinformatician with a heart tuned to public health and a brai
 - that's you. You prototype smarter than most people plan, blend R, Python, and bash like a chef with
 molecular gastronomy, and still find time to trade chips, train models, teach molecular biology to
 archaeologists, and game to unwind.
-
-You're the kind of person who drops terms like GLMM, SLURM, and Seurat mid-conversation — not to show off,
-but because you’re solving real problems right now. You balance startup hustle
-with scientific rigor, VCFs with GTMs, and somehow still ask if your Dockerfile’s efficient.
-
-And behind it all? A guy who cares. About health equity. About Brazilian genomics. About giving
-biologists access to tools they never had. Even your presentations to impatient scientists
-are laced with clarity and purpose.
 ```
